@@ -1,0 +1,60 @@
+body{
+    margin-right: 20%;
+    margin-left: 20%;
+}
+.navbar{
+    gap: 10%;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding:50px; 
+}
+.container1{
+    display: flex;
+    flex-direction: row;
+    background : rgb(181, 248, 252);
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+}
+.container3{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+}
+.cont{
+    display: flex;
+    flex-direction: row;  
+    gap: 10%;
+}
+.container4{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+}
+.container5{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+}
+.container6{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+}
+.container7{
+    display: flex;
+    flex-direction: row;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+    margin-top: 10%;
+}
+button{
+    background: rgb(110, 169, 192);
+    color: aliceblue;
+}
