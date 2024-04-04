@@ -58,3 +58,50 @@ button{
     background: rgb(110, 169, 192);
     color: aliceblue;
 }
+@media screen  and (min-width: 280px),(max-width:680px){
+    .navbar{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 10%;
+        
+    } 
+
+    .container1{
+        display: flex;
+        flex-wrap: wrap;
+        
+}
+.container2{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.container3{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.container4{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.container5{
+    display: flex;
+    flex-wrap: wrap;
+}  
+.container6{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.container7{
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10%;
+}
+}
